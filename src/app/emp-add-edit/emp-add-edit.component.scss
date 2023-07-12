@@ -1,0 +1,20 @@
+.form-fields{
+    padding-top: 10px;
+}
+
+.input-fields{
+    gap: 10px ;
+
+    mat-form-field{
+        width: 100% ;
+    }
+}
+
+
+.form-buttons{
+    padding: 0px 25px 20px ;
+    
+    button{
+        flex: 1;
+    }
+}
