@@ -1,27 +1,39 @@
-# Employees Management Portal
+# Employee Management System - Angular Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+The Employee Management System is a robust Angular application designed to streamline and simplify the management of employee data. This project incorporates Angular Material UI for a modern and user-friendly interface.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **CRUD Operations:** Perform Create, Read, Update, and Delete operations on employee records.
+- **Sorting:** Easily sort employee data based on different attributes such as name, designation, or department.
+- **Pagination:** Navigate through large datasets with ease using pagination functionality.
+- **Filter and Search:** Efficiently filter and search for specific employees based on criteria like name, designation, or department.
 
-## Code scaffolding
+## Deployment
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+The backend server is deployed through [Render](https://render.com) to ensure high performance and reliability. The Angular application itself is deployed using GitHub Pages, making it easily accessible to users.
 
-## Build
+## Getting Started
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+To get started with the Employee Management System:
 
-## Running unit tests
+1. Clone the repository: `git clone https://github.com/Pa1mekala37/Employee-Management-System-Angular.git`
+2. Install the necessary dependencies: `npm install`
+3. Run the application locally: `ng serve`
+4. Access the application in your browser at `http://localhost:4200`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Contributing
 
-## Running end-to-end tests
+Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## License
 
-## Further help
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Contact
+
+For any inquiries or further information, please reach out to:
+
+- [LinkedIn](www.linkedin.com/in/pavan-mekala-5233b1202)
+
+We appreciate your interest and support in the Employee Management System!
